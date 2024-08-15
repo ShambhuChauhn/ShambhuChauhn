@@ -1,5 +1,5 @@
 
-<img height="800px" width="1300px" src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="shambhuchauhan" /> 
+<img height="500px" width="1300px" src="https://user-images.githubusercontent.com/55116927/188319849-9d4fed2d-497e-4ce3-9f06-8d3843f05cb4.gif" alt="shambhuchauhan" /> 
 
 <h1 align="center">Hi 👋, I'm Shambhu Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
